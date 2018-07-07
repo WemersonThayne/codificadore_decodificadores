@@ -1,0 +1,1 @@
+Texto para ser codificada a partir do codigo de Huffman utilizando arquivos de texto testando o codificador de arquivos
